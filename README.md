@@ -1,0 +1,2 @@
+Skinify is a easy to use mobile app for detecting skin diseases.The project uses Django for its backend implementation and React-Native for its frontend implementation.It has six labels mainly focusing on Mpox. For running this application, at first download the model from https://drive.google.com/drive/folders/1AYjNjChZ6OAvLPigxZyde5MF7r9Ii155?usp=drive_link, and add it to the folder "model" in the Backend Folder.
+Now you are ready to use the app, run the backend from a window and the front end from another window.
